@@ -1,4 +1,4 @@
-# adaptiveSpectral
+# Adaptive Learning of Rank-One Models for Efficient Pairwise Sequence Alignment
 
 Code accompanying the paper "Adaptive Learning of Rank-One Models for Efficient Pairwise Sequence Alignment", NeurIPS 2020.
 
